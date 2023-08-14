@@ -1,5 +1,5 @@
-# UNet-Segmentace-cev
-Představujeme tři architektury neuronový sítí 3D U-Net a jejich použití pro segmentaci cévních struktur na datech poskytnutých projektem Deepvesselnet (https://github.com/giesekow/deepvesselnet.git). 
+# UNet-Segmentace-cév
+Představujeme tři architektury neuronových sítí 3D U-Net a jejich použití pro segmentaci cévních struktur na datech poskytnutých projektem Deepvesselnet (https://github.com/giesekow/deepvesselnet.git). 
 
 # Data
   1. Dataset: https://home.zcu.cz/~jirik/data.zip
