@@ -2,7 +2,7 @@
 Představujeme tři architektury neuronových sítí 3D U-Net a jejich použití pro segmentaci cévních struktur na datech poskytnutých projektem Deepvesselnet (https://github.com/giesekow/deepvesselnet.git). 
 
 # Data
-  1. Dataset (data.zip): https: https://drive.google.com/file/d/1dJOfdqnMJje7LUiA1SPkFXsR49cz8BHj/view?usp=drive_link
+  1. Dataset (data.zip): https://drive.google.com/file/d/1dJOfdqnMJje7LUiA1SPkFXsR49cz8BHj/view?usp=drive_link
   2. Natrénované modely (modely.zip): https://drive.google.com/file/d/1YRB4ReWOvbgD4Q2GFZoU6M9dN9QKZoK5/view?usp=drive_link
 
 # Cévní struktury
